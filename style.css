@@ -72,3 +72,5 @@ input,select,textarea{width:100%;font:inherit;padding:10px 12px;border:1px solid
 .menu.open{display:flex}.sub{position:static;border:0;padding:0 0 0 14px}.has-sub:hover .sub{display:none}.has-sub.open .sub{display:block}
 .split,.side,.foot .g{grid-template-columns:1fr}.row{grid-template-columns:72px 1fr}.row .btn{grid-column:1/-1;text-align:center}.s{padding:44px 0}}
 @media(prefers-reduced-motion:reduce){.trk{animation:none}.mq{overflow-x:auto;mask-image:none}}
+.n{font-variant-numeric:tabular-nums}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
